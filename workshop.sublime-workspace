@@ -1,0 +1,989 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"car",
+				"cart_item"
+			],
+			[
+				"tota",
+				"total_items"
+			],
+			[
+				"Car",
+				"CartItem"
+			],
+			[
+				"try",
+				"try	Try/Except/Else/Finally"
+			],
+			[
+				"item",
+				"item_added"
+			],
+			[
+				"sub",
+				"submit-btn"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"update",
+				"update_subtotal"
+			],
+			[
+				"delete",
+				"delete_item"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"dele",
+				"delete_item"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"CartItem",
+				"CartItemAdmin"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"ProductIma",
+				"ProductImage"
+			],
+			[
+				"Produ",
+				"ProductImage"
+			],
+			[
+				"Vari",
+				"VariationInline"
+			],
+			[
+				"Produc",
+				"Productadmin"
+			],
+			[
+				"feat",
+				"featured_img"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Sms",
+				"SmsCodeSend"
+			],
+			[
+				"rand",
+				"random_list"
+			],
+			[
+				"to",
+				"to_num"
+			],
+			[
+				"fr",
+				"from_number"
+			],
+			[
+				"c",
+				"client"
+			],
+			[
+				"v1",
+				"v1_api"
+			],
+			[
+				"prod",
+				"products_two"
+			],
+			[
+				"pro",
+				"products_one"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"chec",
+				"check_title"
+			],
+			[
+				"send",
+				"send_title"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"send_t",
+				"send_type"
+			],
+			[
+				"from",
+				"from_number"
+			],
+			[
+				"S",
+				"SmsCodeSend"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"sal",
+				"sale_price"
+			],
+			[
+				"data",
+				"data-sale-price"
+			],
+			[
+				"Va",
+				"VariationInventoryFormSet"
+			],
+			[
+				"modelform",
+				"modelformset_factory"
+			],
+			[
+				"htt",
+				"Http404"
+			],
+			[
+				"pr",
+				"product_pk"
+			],
+			[
+				"Varia",
+				"VariationListView"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"fil",
+				"file_extention"
+			],
+			[
+				"ima",
+				"image_upload_to"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"P",
+				"ProductListView"
+			],
+			[
+				"http",
+				"http404"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"a",
+				"a_new_list"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"line",
+				"line_breaks"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"redi",
+				"redis_url"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"f",
+				"featurette"
+			],
+			[
+				"Htt",
+				"HttpResponsePermanentRedirect	class"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"question",
+				"question_type"
+			],
+			[
+				"lo",
+				"login_required	function"
+			],
+			[
+				"Le",
+				"LectureQuestion	class"
+			],
+			[
+				"Que",
+				"QuestionAnswerInline"
+			],
+			[
+				"L",
+				"LectureQuestion	class"
+			],
+			[
+				"se",
+				"settings	instance"
+			],
+			[
+				"Lecture",
+				"LectureCompletion	class"
+			],
+			[
+				"prev",
+				"prev_item	statement"
+			],
+			[
+				"nex",
+				"next_item	statement"
+			],
+			[
+				"prv",
+				"prev_item	statement"
+			],
+			[
+				"fin",
+				"finished	statement"
+			],
+			[
+				"Lec",
+				"LectureCompletion	class"
+			],
+			[
+				"le",
+				"lecture_id	statement"
+			],
+			[
+				"ne",
+				"new_view	statement"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"base",
+				"base_name	statement"
+			],
+			[
+				"file",
+				"filename	statement"
+			],
+			[
+				"Question",
+				"QuestionManager"
+			],
+			[
+				"Text",
+				"TextInput	class"
+			],
+			[
+				"Http",
+				"Http404	class"
+			],
+			[
+				"next",
+				"next_page	statement"
+			],
+			[
+				"vide",
+				"video_file"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"help",
+				"help_text	''"
+			],
+			[
+				"vid",
+				"video_file"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"new_",
+				"new_slug	statement"
+			],
+			[
+				"S3",
+				"S3DirectWidget	class"
+			],
+			[
+				"w",
+				"widgets	module"
+			],
+			[
+				"cre",
+				"create_video_tupe	function"
+			],
+			[
+				"fi",
+				"file_string"
+			],
+			[
+				"up",
+				"uploadTo"
+			],
+			[
+				"H",
+				"Http404	class"
+			],
+			[
+				"Video",
+				"VideoForm	class"
+			],
+			[
+				"Vi",
+				"VideoForm	class"
+			],
+			[
+				"PRE",
+				"pre_save	statement"
+			],
+			[
+				"Vid",
+				"Video	class"
+			],
+			[
+				"get_user",
+				"get_user_model	function"
+			],
+			[
+				"ip",
+				"ip_overload"
+			],
+			[
+				"email_",
+				"email_user	statement"
+			],
+			[
+				"EmailF",
+				"emailfriends"
+			],
+			[
+				"Em",
+				"EmailFriends	class"
+			],
+			[
+				"Ema",
+				"EmailSignUp	class"
+			],
+			[
+				"x",
+				"x_forwarded_for	statement"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "workshop/urls.py",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kido/pyWorkshop/workshop"
+	],
+	"file_history":
+	[
+		"/home/kido/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/home/kido/ecommerce-2/src/templates/javascript.html",
+		"/home/kido/ecommerce-2/src/ecommerce2/urls.py",
+		"/home/kido/ecommerce-2/src/carts/views.py",
+		"/home/kido/ecommerce-2/src/templates/navbar.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/view.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/empty_cart.html",
+		"/home/kido/ecommerce-2/src/carts/models.py",
+		"/home/kido/ecommerce-2/src/static_in_pro/our_static/js/custom.js",
+		"/home/kido/ecommerce-2/src/templates/alert.html",
+		"/home/kido/ecommerce-2/src/static_in_pro/our_static/css/custom.css",
+		"/home/kido/ecommerce-2/src/products/templates/products/alert.html",
+		"/home/kido/ecommerce-2/src/carts/templates/carts/alert.html",
+		"/home/kido/ecommerce-2/src/carts/admin.py",
+		"/home/kido/ecommerce-2/src/carts/apps.py",
+		"/home/kido/ecommerce-2/src/products/models.py",
+		"/home/kido/ecommerce-2/src/carts/templates/view.html",
+		"/home/kido/ecommerce-2/src/products/admin.py",
+		"/home/kido/ecommerce-2/src/sms_verification/api/resources.py",
+		"/home/kido/ecommerce-2/src/ecommerce2/settings/local.py",
+		"/home/kido/ecommerce-2/src/sms_verification/views.py",
+		"/home/kido/ecommerce-2/src/newsletter/views.py",
+		"/home/kido/ecommerce-2/src/products/templates/products/products.html",
+		"/home/kido/ecommerce-2/src/products/templates/products/product_list.html",
+		"/home/kido/ecommerce-2/src/templates/home.html",
+		"/home/kido/ecommerce-2/static_in_env/static_root/css/custom.css",
+		"/home/kido/ecommerce-2/src/products/templates/products/product_thumbnail.html",
+		"/home/kido/ecommerce-2/src/products/templates/products/category_detail.html",
+		"/home/kido/ecommerce-2/src/products/views.py",
+		"/home/kido/ecommerce-2/src/sms_verification/urls_sms.py",
+		"/home/kido/ecommerce-2/src/sms_verification/api/__init__.py",
+		"/home/kido/ecommerce-2/src/products/urls_categories.py",
+		"/home/kido/ecommerce-2/src/products/urls.py",
+		"/home/kido/ecommerce-2/src/products/templates/urls_categories.py",
+		"/home/kido/ecommerce-2/src/products/forms.py",
+		"/home/kido/ecommerce-2/src/products/mixins.py",
+		"/home/kido/ecommerce-2/src/sms_verification/templates/sms_home.html",
+		"/home/kido/ecommerce-2/src/sms_verification/templates/sms_check.html",
+		"/home/kido/ecommerce-2/src/sms_verification/forms.py",
+		"/home/kido/ecommerce-2/src/sms_verification/models.py",
+		"/home/kido/ecommerce-2/src/sms_verification/admin.py",
+		"/home/kido/ecommerce-2/src/templates/base.html",
+		"/home/kido/ecommerce-2/src/products/templates/products/variation_list.html",
+		"/homedisk/Python/Coding for Entrepreneurs - eCommerce 2 (2015)/016 Product Detail Layout.mp4",
+		"/home/kido/ecommerce-2/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/kido/ecommerce-2/src/newsletter/models.py",
+		"/home/kido/ecommerce-2/src/newsletter/admin.py",
+		"/homedisk/Python/Coding for Entrepreneurs - eCommerce 2 (2015)/012 Using Links for Model Instances.mp4",
+		"/home/kido/ecommerce-2/src/ecommerce2/wsgi.py",
+		"/home/kido/ecommerce-2/src/trydjango18/wsgi.py",
+		"/home/kido/ecommerce-2/src/trydjango18/urls.py",
+		"/home/kido/ecommerce-2/src/.gitignore",
+		"/home/kido/ecommerce-2/src/trydjango18/old_settings.py",
+		"/home/kido/ecommerce-2/src/trydjango18/settings/base.py",
+		"/home/kido/ecommerce-2/src/trydjango18/settings/local.py",
+		"/home/kido/ecommerce-2/src/trydjango18/settings/production.py",
+		"/home/kido/ecommerce-2/src/manage.py",
+		"/home/kido/ecommerce-2/src/trydjango18/views.py",
+		"/Users/jmitch/Desktop/delete.py",
+		"/Users/jmitch/Desktop/drf/src/comments/views.py",
+		"/Users/jmitch/Desktop/drf/src/accounts/models.py",
+		"/Users/jmitch/Desktop/drf/src/comments/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/views.py",
+		"/Users/jmitch/Desktop/drf/src/jquery_test/installation.txt",
+		"/Users/jmitch/Desktop/jquery_test/index.html",
+		"/Users/jmitch/Desktop/jquery_test.html",
+		"/Users/jmitch/Desktop/drf/src/videos/serializers.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/views.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/urls.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/utils.py",
+		"/Users/jmitch/Desktop/drf/src/videos/models.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops",
+		"/Users/jmitch/Desktop/xpytests/sub.py",
+		"/Users/jmitch/Desktop/30daysofdjango/3_math.py",
+		"/Users/jmitch/Desktop/30daysofdjango/2_strings.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/pdfs/tm_details_download.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/admin.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/home.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/documents.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/local.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/base.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/Procfile",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/production.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/celery.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/sidebar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/lectures/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/tasks.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/activity.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/quiz/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/quiz/user_results_all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/questions/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/lectures/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/welcomeModal.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/navbar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/login.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/join.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/videos/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/team.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/cloudfront.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/test_css.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/footer.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/home.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/css/signin.css",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/register.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/forms.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/quiz.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/models.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/home/kido/ecommerce-2/src",
+			"<open folders>",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"auth",
+			"trydjango18",
+			"CORS",
+			"render_to_pdf",
+			"render_to",
+			"TIME_ZONE",
+			"send_mail",
+			"emai",
+			"send_email",
+			"celery",
+			"download",
+			"documents",
+			"login_required",
+			"staticfile",
+			"sidebar",
+			"active",
+			".footer",
+			"option",
+			"href='#",
+			"href=\"#",
+			"join",
+			"md",
+			"pesticide",
+			"td",
+			"pricing",
+			"all",
+			"reset",
+			"next",
+			"video",
+			"model",
+			"embed",
+			"dropdown",
+			"completed",
+			"start",
+			"quiz",
+			"print",
+			"id=",
+			"action",
+			"reverse",
+			"alert",
+			"error",
+			"ask",
+			"questions",
+			"actions",
+			"questions",
+			"transcript",
+			"Lecture",
+			"User",
+			"Lecture",
+			"reply",
+			"min-height",
+			"transcriptText",
+			"transcriptContainer",
+			"transcript",
+			"toggleTrans",
+			"print",
+			"video",
+			"remove",
+			"update",
+			"remove",
+			"url",
+			"hash",
+			"verbose_name",
+			"height",
+			"top",
+			"view",
+			"transcript",
+			"<i",
+			"fa",
+			"transcriptText",
+			"questions",
+			"span",
+			"transcript",
+			":",
+			"currentTime",
+			"cookie",
+			"current",
+			"updated",
+			"questions",
+			"krtoor6jqe",
+			"block",
+			"#wistia",
+			"id",
+			"wistia",
+			"lecture",
+			"wistia",
+			"wisita",
+			"url",
+			"filename",
+			"wistia",
+			"id",
+			"video",
+			"url",
+			"projects",
+			"filename",
+			"password",
+			"favicon",
+			"fav",
+			"bookmark it",
+			"share",
+			"information",
+			"imformation",
+			"people",
+			"someref",
+			"ip",
+			"complete",
+			"danger",
+			"500",
+			"1 month",
+			"download",
+			"progress-bar",
+			"access",
+			"plus",
+			"community",
+			"img",
+			"iphone",
+			"iphoneImg",
+			"img/apple-touch-icon-152-precomposed.png",
+			"static",
+			"unlock",
+			"unlock first",
+			"built",
+			"while we",
+			"jumbo",
+			"form",
+			"emailTool",
+			"id=\"email"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"ecommerce2",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "workshop/urls.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "workshop.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
